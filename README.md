@@ -1,17 +1,24 @@
 <br/>
-  <div align="center">
+<div align="center">
+  
+A curated list of awesome inspiring security resources
 
-  A curated list of awesome inspiring security resources
-
-  Supported by: [Anthony Nichols](https://github.com/aenichols)
-
-  </div>
-<br/>
+Supported by [Anthony Nichols](https://github.com/aenichols)
+  
+</div>
 
 # Contents
+- [Training](/TRAINING.md)
 - [Educational](/EDUCATIONAL.md)
+  - [Web](/EDUCATIONAL/WEB.md)
+  - [C Based / .NET](/EDUCATIONAL/CBASED.md)
+  - [General](/EDUCATIONAL/GENERAL.md)
 - [Tools](/TOOLS.md)
+  - [Playgrounds](/TOOLS/PLAYGROUNDS.md)
+  - [Static Code Analyzers](/TOOLS/SAST.md)
 - [Other](/OTHER.md)
+  - [News](/OTHER/NEWS.md)
+  - [Blogs](/OTHER/BLOGS.md)
 
 ## Contributing
 
