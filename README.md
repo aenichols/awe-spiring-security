@@ -1,9 +1,19 @@
 <br/>
 <div align="center">
   
-A curated list of awesome inspiring security resources
+  <h2>A Curated List of <b><i>Awe</i></b>some In<b><i>spiring</i></b> Security Resources</h2>
 
 Supported by [Anthony Nichols](https://github.com/aenichols)
+ 
+  <a href="https://github.com/aenichols/awe-spiring-security/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">
+    ㅤ<img src='https://img.shields.io/badge/Report a Bug-gray?style=for-the-badge'>ㅤ
+  </a> • 
+  <a href="https://github.com/aenichols/awe-spiring-security/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">
+     ㅤ<img src='https://img.shields.io/badge/Request a Feature-blue?style=for-the-badge'>ㅤ
+  </a> • 
+  <a href="https://github.com/aenichols/awe-spiring-security/discussions">
+     ㅤ<img src='https://img.shields.io/badge/Ask a Question-green?style=for-the-badge'>ㅤ
+  </a>
   
 </div>
 
@@ -19,6 +29,7 @@ Supported by [Anthony Nichols](https://github.com/aenichols)
 - [Other](/OTHER.md)
   - [News](/OTHER/NEWS.md)
   - [Blogs](/OTHER/BLOGS.md)
+  
 
 ## Contributing
 
