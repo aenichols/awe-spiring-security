@@ -1,6 +1,6 @@
 # Training
 
-  - [Angular Security Workshop](https://www.angulararchitects.io/en/dates/5102/)
+  - [Angular Security Workshop](https://www.angulararchitects.io/en/dates/5102/)<image height="24px" align="right" src="/images/angular.svg">
   - [Web Application Security](https://app.pluralsight.com/paths/skill/web-application-security)<image height="24px" align="right" src="/images/owasp.svg">
   
        >Web application security encompasses the security methods applied to websites, web applications, and web services. In this series you’ll learn how to develop and maintain secure web applications by applying security principles and techniques. This series includes secure coding best practices with coverage of the 2017 OWASP Top 10 web application risks.
