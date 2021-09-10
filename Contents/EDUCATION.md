@@ -61,4 +61,10 @@
   </br>[<sup>Also see suggested resource</sup>](https://www.sei.cmu.edu/about/divisions/cert/index.cfm)
       >Provides information and data to educate software development professionals on the concept, applicability, and value of software security principles. It will also contain a set of key secure software principles to assist software development professionals in analyzing and creating their software architectures from a security perspective and in gaining a greater understanding of the key underlying concepts and patterns that, depending on how they are addressed, can make software either more or less secure.
   - [Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)<sup>⚠</sup><image height="24px" align="right" src="/images/owasp.svg">
-  <p background-color="white !important" align="center"><img width="50%" max-height="300px" src="https://github.com/OWASP/owasp-swag/blob/master/projects/cheat-sheet-series/owasp-1.png"></img></p>
+    
+    <img align="right" width="50%" max-height="300px" src="https://github.com/OWASP/owasp-swag/blob/master/projects/cheat-sheet-series/owasp-1.png"></img>
+    >The OWASP Cheat Sheet Series was created to provide a set of simple good practice guides for application developers and defenders to follow. Rather than focused on detailed best practices that are impractical for many developers and applications, they are intended to provide good practices that the majority of developers will actually be able to implement.
+    >
+    >The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
+    >
+    >We hope that this project provides you with excellent security guidance in an easy to read format. 😄
