@@ -13,7 +13,7 @@
   - Open Web Application Security Project [OWASP](http://www.owasp.org/)<image height="24px" align="right" src="/images/owasp.svg">
     - [Testing Techniques](https://owasp.org/www-project-web-security-testing-guide/stable/)
     - [Juice Shop](https://pwning.owasp-juice.shop)<image height="24px" align="right" src="/images/juiceshop.png">
-        >Fantastic source for learning vulnerabilities using modern web technologies.
+        >*Fantastic source for learning vulnerabilities using modern web technologies.*
     - [Top Ten](https://owasp.org/www-project-top-ten/#)
     - [WebGoat 8]()
         >WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web application security lessons.
@@ -48,7 +48,7 @@
   - [Introduction to Computer Security <sub>by Michael Goodrich and Roberto Tamassia</sub>](https://www.securitybook.net/home)
       >Introduction to Computer Security, does NOT focus on the mathematical and computational foundations of security, and it does not assume an extensive background in computer science. Instead it looks at the systems, technology, management, and policy side of security, and offers students fundamental security concepts and a working knowledge of threats and countermeasures with “just-enough” background in computer science. 
       >
-      >This has a lot of good resources for understanding typical CS security concerns. You can also find good documentation in the project sections explaining how some of these attacks and what countermeasures exist.
+      >*This has a lot of good resources for understanding typical CS security concerns. You can also find good documentation in the project sections explaining how some of these attacks and what countermeasures exist.*
       >   
       >   Presentations
       >   - [ ] Network Security I, II
@@ -56,4 +56,9 @@
       >   - [x] Security Models and Practice
       >   - [ ] Database Security
       >   - [x] Payment Systems
-  
+  - [Cloud Security & DevSecOps SWAT Cheat Sheet](https://www.sans.org/posters/cloud-security-devsecops-best-practices/)<image height="24px" width="37px" align="right" src="/images/sans.svg"> 
+  - [Homeland Security Build Security In](https://us-cert.cisa.gov/bsi)
+  </br>[<sup>Also see suggested resource</sup>](https://www.sei.cmu.edu/about/divisions/cert/index.cfm)
+      >Provides information and data to educate software development professionals on the concept, applicability, and value of software security principles. It will also contain a set of key secure software principles to assist software development professionals in analyzing and creating their software architectures from a security perspective and in gaining a greater understanding of the key underlying concepts and patterns that, depending on how they are addressed, can make software either more or less secure.
+  - [Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets)<sup>⚠</sup><image height="24px" align="right" src="/images/owasp.svg">
+  <p background-color="white !important" align="center"><img width="50%" max-height="300px" src="https://github.com/OWASP/owasp-swag/blob/master/projects/cheat-sheet-series/owasp-1.png"></img></p>
