@@ -3,9 +3,9 @@
 
 <div align="center">
 
-**[Web](https://github.com/aenichols/awe-spiring-security/Contents/EDUCATION.md##-web) • 
-[C Based / .NET](https://github.com/aenichols/awe-spiring-security/Contents/EDUCATION.md##-c-based) • 
-[General](https://github.com/aenichols/awe-spiring-security/Contents/EDUCATION.md##-general)**
+**[Web](#web) • 
+[C Based / .NET](#c-based--net) • 
+[General](#general)**
 
 </div>
 
