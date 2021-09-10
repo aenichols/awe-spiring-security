@@ -23,12 +23,12 @@ Supported by [Anthony Nichols](https://github.com/aenichols)
   - [Web](/Contents/EDUCATION.md/#web)
   - [C Based / .NET](/Contents/EDUCATION.md/#c-based--net)
   - [General](/Contents/EDUCATION.md/#general)
-- [Tools](/TOOLS.md)
-  - [Playgrounds](/TOOLS/PLAYGROUNDS.md)
-  - [Static Code Analyzers](/TOOLS/SAST.md)
-- [Other](/OTHER.md)
-  - [News](/OTHER/NEWS.md)
-  - [Blogs](/OTHER/BLOGS.md)
+- [Tools](/Contents/TOOLS.md)
+  - [Playgrounds](/Contents/TOOLS.md/#playground)
+  - [Static Code Analyzers](/Contents/TOOLS.md/#static-code-analyzers)
+- [Other](/Contents/OTHER.md)
+  - [News](/Contents/OTHER.md/#news)
+  - [Blogs](/Contents/OTHER.md/#blogs)
   
 
 ## Contributing
