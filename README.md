@@ -20,7 +20,7 @@ Supported by [Anthony Nichols](https://github.com/aenichols)
 # Contents
 - [Training](/Contents/TRAINING.md)
 - [Education](/Contents/EDUCATION.md)
-  - [Web](/Contents/EDUCATION/###-web)
+  - [Web](/Contents/EDUCATION/#web)
   - [C Based / .NET](/EDUCATIONAL/CBASED.md)
   - [General](/EDUCATIONAL/GENERAL.md)
 - [Tools](/TOOLS.md)
