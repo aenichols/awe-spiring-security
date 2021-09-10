@@ -18,7 +18,7 @@ Supported by [Anthony Nichols](https://github.com/aenichols)
 </div>
 
 # Contents
-- [Training](/TRAINING.md)
+- [Training](/Contents/TRAINING.md)
 - [Education](/Contents/EDUCATION.md)
   - [Web](/Contents/EDUCATION/###-web)
   - [C Based / .NET](/EDUCATIONAL/CBASED.md)
