@@ -35,8 +35,13 @@
   - [Angular Security](https://angular.io/guide/security)<image height="24px" width="37px" align="right" src="/images/angular.svg">
   - [Google Security Fundamentals](https://developers.google.com/web/fundamentals/security)<image height="24px" width="37px" align="right" src="/images/google.svg"> 
   - [Web Application Securtity <sub>by Andrew Hoffman</sub>](https://learning.oreilly.com/library/view/web-application-security/9781492053101/)<image height="24px" width="32px" align="right" src="/images/oreilly.svg">
-  - [Angular Best Security Practices](https://snyk.io/blog/angular-security-best-practices/)<image height="24px" width="37px" align="right" src="/images/snyk.svg"> 
-
+  - [Angular Best Security Practices](https://snyk.io/blog/angular-security-best-practices/)<image height="24px" width="37px" align="right" src="/images/angular.svg"><image height="24px" width="37px" align="right" src="/images/snyk.svg">
+  - [Security Code Review Best Practices](https://snyk.io/blog/secure-code-review/)<image height="24px"  width="37px" align="right" src="/images/snyk.svg">
+  - [Angular XSS](https://pragmaticwebsecurity.com/articles/spasecurity/json-stringify-xss.html)<image height="24px" width="37px" align="right" src="/images/angular.svg"><image height="24px" width="37px" align="right" src="/images/pws.svg">
+  - [Google XSS](https://www.google.com/about/appsecurity/learning/xss/)<image height="24px" width="37px" align="right" src="/images/google.svg">
+  - [Security Cheat Sheets for Web Applications](https://pragmaticwebsecurity.com/cheatsheets.html)<image height="24px" width="37px" align="right" src="/images/pws.svg">
+  
   ## C Based / .NET
+  - [Read Only Benefits](https://app.pluralsight.com/guides/benefits-of-read-only-coding-in-c )<image height="24px" width="37px" align="right" src="/images/csharp.svg"><image height="24px" width="37px" align="right" src="/images/pluralsight.svg">
 
   ## General
