@@ -43,6 +43,8 @@
   
   ## C Based / .NET
   - [Read Only Benefits](https://app.pluralsight.com/guides/benefits-of-read-only-coding-in-c )<image height="24px" width="37px" align="right" src="/images/csharp.svg"><image height="24px" width="37px" align="right" src="/images/pluralsight.svg">
+  - [MSDN Security in .NET](https://docs.microsoft.com/en-us/dotnet/standard/security/)
+  - [DotNet Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)
 
   ## General
   - [Introduction to Computer Security <sub>by Michael Goodrich and Roberto Tamassia</sub>](https://www.securitybook.net/home)
