@@ -15,6 +15,14 @@ Supported by [Anthony Nichols](https://github.com/aenichols)
      ㅤ<img src='https://img.shields.io/badge/Ask a Question-green?style=for-the-badge'>ㅤ
   </a>
   
+  </br>
+
+  <h6  align-items="center">
+  ✔ Look beyond technology to improve the security of your software</br></br>
+  ✔ Develop software using high-level programming languages with built-in security features</br></br>
+  ✔ Require security assurance activities such as penetration testing and code review</br></br>
+  ✔ Perform essential core activities to produce secure applications and systems
+  </h6>
 </div>
 
 # Contents
