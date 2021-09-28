@@ -47,6 +47,7 @@
   - [DotNet Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)<image height="24px" width="37px" align="right" src="/images/csharp.svg"><image height="24px" align="right" src="/images/owasp.svg">
 
   ## General
+  - [Placing Security in the Hands of Developers <sub>by SD Times Live</sub>](https://resources.sdtimes.com/sonatype-the-broad-responsibilities-of-the-expanding-developer-domain)
   - [Introduction to Computer Security <sub>by Michael Goodrich and Roberto Tamassia</sub>](https://www.securitybook.net/home)
       >Introduction to Computer Security, does NOT focus on the mathematical and computational foundations of security, and it does not assume an extensive background in computer science. Instead it looks at the systems, technology, management, and policy side of security, and offers students fundamental security concepts and a working knowledge of threats and countermeasures with “just-enough” background in computer science. 
       >
