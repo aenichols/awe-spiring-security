@@ -71,8 +71,3 @@
     >The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
     >
     >We hope that this project provides you with excellent security guidance in an easy to read format. 😄
-  
-  ## Other Awesome Resources
-  [Awesome Security](https://github.com/sbilly/awesome-security)
-  
-  [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security)
