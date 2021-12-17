@@ -13,14 +13,18 @@
   <a href="https://github.com/aenichols/awe-spiring-security/discussions">
      ㅤ<img src='https://img.shields.io/badge/Ask a Question-green?style=for-the-badge'>ㅤ
   </a>
-
-  </br>
-  ✔ Look beyond technology to improve the security of your software
-  ✔ Develop software using high-level programming languages with built-in security features
-  ✔ Require security assurance activities such as penetration testing and code review
-  ✔ Perform essential core activities to produce secure applications and systems
-  </br>
+  <br>
+  <br>
+  <small>
+    ✔ Look beyond technology to improve the security of your software<br>
+    ✔ Develop software using high-level programming languages with built-in security features<br>
+    ✔ Require security assurance activities such as penetration testing and code review<br>
+    ✔ Perform essential core activities to produce secure applications and systems
+  </small>
 </div>
+<br>
+
+***
 
 # Contents
 - [Training](/Contents/TRAINING.md)
