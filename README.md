@@ -1,28 +1,23 @@
-<br/>
 <div align="center">
-  
+
   <h2>A Curated List of <b><i>Awe</i></b>some In<b><i>spiring</i></b> Security Resources</h2>
 
-Supported by [Anthony Nichols](https://github.com/aenichols)
- 
+  Supported by [Anthony Nichols](https://github.com/aenichols)
+
   <a href="https://github.com/aenichols/awe-spiring-security/issues/new?assignees=&labels=bug&template=01_BUG_REPORT.md&title=bug%3A+">
     ㅤ<img src='https://img.shields.io/badge/Report a Bug-gray?style=for-the-badge'>ㅤ
-  </a> • 
+  </a> •
   <a href="https://github.com/aenichols/awe-spiring-security/issues/new?assignees=&labels=enhancement&template=02_FEATURE_REQUEST.md&title=feat%3A+">
      ㅤ<img src='https://img.shields.io/badge/Request a Feature-blue?style=for-the-badge'>ㅤ
-  </a> • 
+  </a> •
   <a href="https://github.com/aenichols/awe-spiring-security/discussions">
      ㅤ<img src='https://img.shields.io/badge/Ask a Question-green?style=for-the-badge'>ㅤ
   </a>
-  
-  </br>
 
-  <h6  align-items="center">
   ✔ Look beyond technology to improve the security of your software</br></br>
   ✔ Develop software using high-level programming languages with built-in security features</br></br>
   ✔ Require security assurance activities such as penetration testing and code review</br></br>
   ✔ Perform essential core activities to produce secure applications and systems
-  </h6>
 </div>
 
 # Contents
@@ -40,7 +35,7 @@ Supported by [Anthony Nichols](https://github.com/aenichols)
 
 ## More [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Content
 - [Awesome Security](https://github.com/sbilly/awesome-security) <sub>[by sbilly](https://github.com/sbilly)</sub>
-- [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security)  <sub>[by PureSec](https://github.com/puresec)</sub> 
+- [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security)  <sub>[by PureSec](https://github.com/puresec)</sub>
 
 ## Contributing
 
