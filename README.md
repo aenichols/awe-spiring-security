@@ -14,10 +14,12 @@
      ㅤ<img src='https://img.shields.io/badge/Ask a Question-green?style=for-the-badge'>ㅤ
   </a>
 
-  ✔ Look beyond technology to improve the security of your software</br></br>
-  ✔ Develop software using high-level programming languages with built-in security features</br></br>
-  ✔ Require security assurance activities such as penetration testing and code review</br></br>
+  </br>
+  ✔ Look beyond technology to improve the security of your software
+  ✔ Develop software using high-level programming languages with built-in security features
+  ✔ Require security assurance activities such as penetration testing and code review
   ✔ Perform essential core activities to produce secure applications and systems
+  </br>
 </div>
 
 # Contents
