@@ -4,7 +4,8 @@
 <div align="center">
 
 **[News](#news) • 
-[Blogs](#blogs)**
+[Blogs](#blogs) •
+[Curated Lists](#curated-lists)**
 
 </div>
 

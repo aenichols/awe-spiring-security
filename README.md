@@ -38,6 +38,7 @@
 - [Other](/Contents/OTHER.md)
   - [News](/Contents/OTHER.md/#news)
   - [Blogs](/Contents/OTHER.md/#blogs)
+  - [Curated Lists](/Contents/OTHER.md/#curated-lists)
 
 ## More [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Content
 - [Awesome Security](https://github.com/sbilly/awesome-security) <sub>[by sbilly](https://github.com/sbilly)</sub>
