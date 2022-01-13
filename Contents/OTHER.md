@@ -4,8 +4,7 @@
 <div align="center">
 
 **[News](#news) • 
-[Blogs](#blogs) •
-[Curated Lists](#curated-lists)**
+[Blogs](#blogs)**
 
 </div>
 
@@ -27,6 +26,3 @@
   - [CodeScene](https://codescene.com/blog/)
   - [Snyk Application Security](https://snyk.io/blog/category/application-security/)<image height="24px" align="right" src="/images/snyk.svg">
   - [Troy Hunt](https://www.troyhunt.com/)
-
-  ## Curated Lists
-  - [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
