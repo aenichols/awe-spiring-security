@@ -42,6 +42,7 @@
 ## More [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) Content
 - [Awesome Security](https://github.com/sbilly/awesome-security) <sub>[by sbilly](https://github.com/sbilly)</sub>
 - [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security)  <sub>[by PureSec](https://github.com/puresec)</sub>
+- [Awesome AppSec](https://github.com/paragonie/awesome-appsec) <sub>[by paragonie](https://github.com/paragonie)</sub>
 
 ## Contributing
 

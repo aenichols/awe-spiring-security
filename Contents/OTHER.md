@@ -25,3 +25,4 @@
   - [HackEDU](https://www.hackedu.com/blog)
   - [CodeScene](https://codescene.com/blog/)
   - [Snyk Application Security](https://snyk.io/blog/category/application-security/)<image height="24px" align="right" src="/images/snyk.svg">
+  - [Troy Hunt](https://www.troyhunt.com/)
