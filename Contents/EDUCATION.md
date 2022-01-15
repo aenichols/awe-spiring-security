@@ -52,7 +52,7 @@
   - [Azure Security Documentation](https://docs.microsoft.com/en-us/azure/security/)
 
   ## Identity and Access Management (IAM)
-  - [SAML Security Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/SAML_Security_Cheat_Sheet.html)<image height="24px" width="37px" align="right" src="/images/csharp.svg"><image height="24px" align="right" src="/images/owasp.svg">
+  - [SAML Security Cheatsheet](https://cheatsheetseries.owasp.org/cheatsheets/SAML_Security_Cheat_Sheet.html)<image height="24px" align="right" src="/images/owasp.svg">
 
   ## General
   - [Placing Security in the Hands of Developers <sub>by SD Times Live</sub>](https://resources.sdtimes.com/sonatype-the-broad-responsibilities-of-the-expanding-developer-domain)
