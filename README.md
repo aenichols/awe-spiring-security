@@ -31,6 +31,8 @@
 - [Education](/Contents/EDUCATION.md)
   - [Web](/Contents/EDUCATION.md/#web)
   - [C Based / .NET](/Contents/EDUCATION.md/#c-based--net)
+  - [Azure](/Contents/EDUCATION.md/#azure)
+  - [Identity and Access Management - IAM](/Contents/EDUCATION.md/#identity-and-access-management)
   - [General](/Contents/EDUCATION.md/#general)
 - [Tools](/Contents/TOOLS.md)
   - [Playgrounds](/Contents/TOOLS.md/#playgrounds)
