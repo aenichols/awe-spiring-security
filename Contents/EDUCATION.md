@@ -5,6 +5,8 @@
 
 **[Web](#web) • 
 [C Based / .NET](#c-based--net) • 
+[Azure](#azure) •
+[Identity and Access Management (IAM)](#identity-and-access-management) •
 [General](#general)**
 
 </div>
@@ -45,6 +47,12 @@
   - [Read Only Benefits](https://app.pluralsight.com/guides/benefits-of-read-only-coding-in-c )<image height="24px" width="37px" align="right" src="/images/csharp.svg"><image height="24px" width="37px" align="right" src="/images/pluralsight.svg">
   - [MSDN Security in .NET](https://docs.microsoft.com/en-us/dotnet/standard/security/)<image height="24px" width="37px" align="right" src="/images/csharp.svg">
   - [DotNet Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/DotNet_Security_Cheat_Sheet.html)<image height="24px" width="37px" align="right" src="/images/csharp.svg"><image height="24px" align="right" src="/images/owasp.svg">
+
+  ## Azure
+  - [Azure Security Documentation](https://docs.microsoft.com/en-us/azure/security/)
+
+  ## Identity and Access Management (IAM)
+  - [SAML Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/SAML_Security_Cheat_Sheet.html)<image height="24px" align="right" src="/images/owasp.svg">
 
   ## General
   - [Placing Security in the Hands of Developers <sub>by SD Times Live</sub>](https://resources.sdtimes.com/sonatype-the-broad-responsibilities-of-the-expanding-developer-domain)
