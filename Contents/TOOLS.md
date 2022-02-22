@@ -4,7 +4,7 @@
 <div align="center">
 
 **[Playgrounds](#playgrounds) • 
-[SAST](#static-code-analyzers)
+[SAST](#static-code-analyzers) •
 [Resources](#resources)**
 
 </div>
@@ -54,7 +54,7 @@
     > Continuous Integration (CI) support for GitHub and GitLab pipelines. Stand-alone runner or through MSBuild for custom integrations.
     >
     >Analyzes .NET and .NET Core projects in a background (IntelliSense) or during a build.
-  ##
+  ## Resources
   - [CVE vulnerability datasource](https://www.cvedetails.com/)
     > www.cvedetails.com provides an easy to use web interface to CVE vulnerability data. You can browse for vendors, products and versions and view cve entries, vulnerabilities, related to them.
   
