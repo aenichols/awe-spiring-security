@@ -15,6 +15,7 @@
   - [The Daily Swig](https://portswigger.net/daily-swig/secure-development)
   - [Dark Reading](https://www.darkreading.com/application-security)
   - [Info Security](https://www.infosecurity-magazine.com/secure-coding/)
+  - [CNET](https://www.cnet.com/news/)
     
   ## Blogs
   - [Angular Architects](https://www.angulararchitects.io/en/blog/)<image height="24px" align="right" src="/images/angular.svg">
@@ -26,3 +27,4 @@
   - [CodeScene](https://codescene.com/blog/)
   - [Snyk Application Security](https://snyk.io/blog/category/application-security/)<image height="24px" align="right" src="/images/snyk.svg">
   - [Troy Hunt](https://www.troyhunt.com/)
+  - [Daniel Miessler](https://danielmiessler.com/blog/)
