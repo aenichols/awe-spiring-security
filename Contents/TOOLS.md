@@ -54,7 +54,20 @@
     > Continuous Integration (CI) support for GitHub and GitLab pipelines. Stand-alone runner or through MSBuild for custom integrations.
     >
     >Analyzes .NET and .NET Core projects in a background (IntelliSense) or during a build.
+
+  - [Sonarqube](https://docs.sonarqube.org/latest/)
+    > An automated code review tool to detect bugs and vulnerabilities.
+    >
+    > Multi language - Supports 29 programming languages including Java, Kotlin, C, C#, C++, Python etc. A place to measure Realiability, Security, and Maintainability of these languages. 
+    >
+    > DevOps Platform Integrations, and also enforces Vulnerability standards and Security Hotspot Review in your Quality Gate to make sure you only merge safe code.
+    >
+    > Keeps apps safe by finding injection vulnerabilitiesa and also performs static analysis of source code.
+
   ## Resources
   - [CVE vulnerability datasource](https://www.cvedetails.com/)
     >Provides an easy to use web interface to CVE vulnerability data. You can browse for vendors, products and versions and view cve entries, vulnerabilities, related to them.
+
+  - [National Vulnerability Database](https://nvd.nist.gov/search)
+    >Standard based vulnerability management data represented using the Security Content Automation Protocol (SCAP). These data enables the automation of vulnerability management, security measurement, and compliance.
   
